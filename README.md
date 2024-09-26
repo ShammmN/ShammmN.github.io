@@ -1,4 +1,4 @@
-## First FitHub Repository (Practice)
+## First GitHub Repository (Practice)
 
 <!--
 **ShammmN/ShammmN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
