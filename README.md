@@ -51,8 +51,8 @@
 - [**Legos**](https://www.lego.com/en-us?gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXQ4xZpO4ualchSSS3Z2benWMVeYRasdO-2iEhqtO5cDcxd5PPtZwVAaAqdJEALw_wcB&ef_id=Cj0KCQjwu-63BhC9ARIsAMMTLXQ4xZpO4ualchSSS3Z2benWMVeYRasdO-2iEhqtO5cDcxd5PPtZwVAaAqdJEALw_wcB:G:s&s_kwcid=AL!790!3!713637531803!b!!g!!lego%20sale!21706197805!170464252954&cmp=KAC-INI-GOOGUS-GO-US_GL-EN-RE-PS-BUY-CREATE-MB_ALWAYS_ON-SHOP-BC-MM-WV-CIDNA00000-MB-GENERIC_GEOX_TEST_MEDIUM_TREATMENT&gad_source=1): __This is the official website of legos and has all of the different legos. This is good to checkout new legos and explore the wide variety of lego sets you can buy. You can also order through here.__ 
 
 
-### Mermaid Design Practice
-**Flowchart of How to Make Banana Bread**
+## My Mermaid Charts
+### Flowchart of How to Make Banana Bread
 ``` mermaid 
 flowchart TD 
     A(Gather ingredients) -->|1 ¾ cups all-purpose flour
@@ -106,7 +106,7 @@ flowchart TD
  
 ```
 
-**Quadrant Diagram of my Favorite Artist Genre**
+### Quadrant Diagram of my Favorite Artist Genre
 
 ``` mermaid 
 quadrantChart 
