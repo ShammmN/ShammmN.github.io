@@ -93,12 +93,12 @@ flowchart TD
     I --> J[Transfer into a well greased 9.5-inch loaf pan]
     J --> K[Place in pre-heated oven for 45 minutes to an hour]
     K --> L[When ready let sit out of oven for 15 minutes then ENJOY!]
-    style C fill:navy,stroke:black,stroke-width:4px,shadow:shadow
-    style D fill:navy,stroke:black,stroke-width:4px,shadow:shadow
-    style F fill:purple,stroke:black,stroke-width:4px,shadow:shadow
-    style E fill:purple,stroke:black,stroke-width:4px,shadow:shadow
-    style H fill:purple,stroke:black,stroke-width:4px,shadow:shadow
-    style G fill:purple,stroke:black,stroke-width:4px,shadow:shadow
+    style C fill:yellow,stroke:black,stroke-width:4px,shadow:shadow
+    style D fill:yellow,stroke:black,stroke-width:4px,shadow:shadow
+    style F fill:orange,stroke:black,stroke-width:4px,shadow:shadow
+    style E fill:orange,stroke:black,stroke-width:4px,shadow:shadow
+    style H fill:orange,stroke:black,stroke-width:4px,shadow:shadow
+    style G fill:orange,stroke:black,stroke-width:4px,shadow:shadow
     style I fill:pink,stroke:black,stroke-width:4px,shadow:shadow
     style J fill:pink,stroke:black,stroke-width:4px,shadow:shadow
     style K fill:pink,stroke:black,stroke-width:4px,shadow:shadow
