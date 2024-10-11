@@ -87,13 +87,23 @@ flowchart TD
     C --> E[Beat sugar and butter until smooth]
     D --> F[Whisk flour, baking soda, baking powder, cinnamon, and salt]
     E --> G[Stir in eggs and vanilla extract]
-    G --> H[Stir the medium bowls 'dry ingredients' into the large bowls 'wet ingredients']
+    G --> H[Stir the medium bowls 'dry ingredients' into the large bowls 'wet ingredients' till smooth]
     F --> H
+    H --> I[Fold in the mashed bananas, sour cream, and walnuts]
+    I --> J[Transfer into a well greased 9.5-inch loaf pan]
+    J --> K[Place in pre-heated oven for 45 minutes to an hour]
+    K --> L[When ready let sit out of oven for 15 minutes then ENJOY!]
     style C fill:navy,stroke:black,stroke-width:4px,shadow:shadow
     style D fill:navy,stroke:black,stroke-width:4px,shadow:shadow
     style F fill:purple,stroke:black,stroke-width:4px,shadow:shadow
     style E fill:purple,stroke:black,stroke-width:4px,shadow:shadow
-
+    style H fill:purple,stroke:black,stroke-width:4px,shadow:shadow
+    style G fill:purple,stroke:black,stroke-width:4px,shadow:shadow
+    style I fill:pink,stroke:black,stroke-width:4px,shadow:shadow
+    style J fill:pink,stroke:black,stroke-width:4px,shadow:shadow
+    style K fill:pink,stroke:black,stroke-width:4px,shadow:shadow
+    style L fill:brown,stroke:black,stroke-width:4px,shadow:shadow
+ 
 ```
 
 **Quadrant Diagram of my Favorite Artist Genre**
@@ -113,7 +123,7 @@ PartyNextDoor : [0.2, 0.6]
 Lana Del Rey : [0.9, 0.6]
 J. Cole : [0.2, 0.3]
 Frank Ocean : [0.4, 0.8]
-The Neighbothood : [0.9, 0.2]
+The Neighborhood : [0.9, 0.2]
 SZA : [0.1, 0.8] 
 Chase Atlantic : [0.6, 0.6]
 Ragheb Alama : [0.7, 0.7]
